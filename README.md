@@ -7,3 +7,5 @@ It's a very simple extension.
 ## Features
  - Add Org Ids to the page. Note you can already search by Org IDs but these are not actually rendered to the page
  - Further style _Production_ orgs to make them standout more on the page
+
+ ![Screenshot](https://github.com/toddhalfpenny/chrome-extension-salesforce-welcome-enhancer/blob/main/assets/screeshot-01.png?raw=true))
