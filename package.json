@@ -1,0 +1,14 @@
+{
+  "name": "chrome-extension-salesforce-welcome-enhancer",
+  "version": "1.0.0",
+  "description": "Browser extension to enhance the Salesforce Welcome screen, including allowing you to get the Org name from an Id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specisharevafied\" && exit 1"
+  },
+  "keywords": [
+    "Salesforce"
+  ],
+  "author": "Todd Halfpenny",
+  "license": "ISC"
+}

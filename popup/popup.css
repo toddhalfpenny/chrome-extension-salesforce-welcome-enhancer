@@ -1,0 +1,30 @@
+body {
+    font-size: 0.8em;
+    line-height: 1.5em;
+    width: 10rem;
+    padding: 0.5em;
+}
+
+h1 {
+    border-radius: 0.5em;
+    padding: 0.5em;
+    background-color: #0D9DDA;
+}
+
+span.label {
+    font-weight: bold;
+    margin-right: 0.5em;
+}
+
+#rel-link { color: blue;}
+
+#copy {
+    border-radius: 8px;
+    border:1px solid white;
+    padding: 0.5em;
+    margin: 0 0 0 1em;
+}
+
+#copy:active {
+    border-color:  blue;
+}
